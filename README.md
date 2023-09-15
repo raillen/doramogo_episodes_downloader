@@ -9,3 +9,8 @@ You need to install `youtube-dl` using pip:
 
 ```bash
 pip install youtube-dl
+```
+
+To download a drama series from Doramongo.com, simply copy the link of the desired drama series and paste it in the terminal.
+  Example:
+  Link: https://doramogo.com/dorama/a-business-proposal/
